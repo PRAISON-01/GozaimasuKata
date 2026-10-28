@@ -1,0 +1,3 @@
+function shortestWord(sentence) {
+  return "";
+}
